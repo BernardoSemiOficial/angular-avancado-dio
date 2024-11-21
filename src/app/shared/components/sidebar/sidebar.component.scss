@@ -1,0 +1,17 @@
+aside {
+  margin-top: 10px;
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    li {
+      a {
+        display: block;
+        padding: 8px;
+        color: inherit;
+      }
+    }
+  }
+}
