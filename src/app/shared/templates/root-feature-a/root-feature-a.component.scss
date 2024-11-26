@@ -1,6 +1,11 @@
+:host {
+  display: block;
+  height: 100%;
+}
+
 .root-feature-a__container {
   display: flex;
-  gap: 10px;
+  gap: 15px;
   width: 100%;
 
   ::ng-deep {
